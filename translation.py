@@ -5,7 +5,7 @@ class Translation(object):
 
       START = """Hello {0}
 
-I can convert file to video or video to file with custom thumbnail support.
+I can convert file to video or video to file with custom thumbnail support. {1}
 """
 
 
