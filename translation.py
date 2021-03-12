@@ -5,8 +5,6 @@ class Translation(object):
 
       START = """Hello {0}
 
-I am a converter clone of [Convert Ns Bot](https://telegram.dog/convert_Ns_bot) by {1}
-
 I can convert file to video or video to file with custom thumbnail support.
 """
 
@@ -23,7 +21,6 @@ I can convert file to video or video to file with custom thumbnail support.
 
 4. Reply to file /converttovideo for converting into video.
 
-**SUPPORT GROUP:** [NS Bot Supporters](https://telegram.dog/Ns_Bot_supporters)
 """
 
 
@@ -34,13 +31,11 @@ I can convert file to video or video to file with custom thumbnail support.
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Owner:** [KP](https://t.me/devarajankp)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+**📮 Cloned from:** [Converter NS BOT](https://t.me/converter_Ns_bot)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
-
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
+**💻 Source Code:**[Press Me](https://github.com/devarajankp/yt-downloader)
 
 """
 
